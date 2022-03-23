@@ -1,0 +1,1 @@
+web: gunicorn grammys.wsgi --log-file -
