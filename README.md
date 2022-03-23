@@ -1,7 +1,7 @@
 # Awards
 By Agnes Okutoyi
   
-# Description  
+## Description  
 This project allows users to post their projects for other users to rate according to design, usability and content 
 
 ## User Story  
@@ -53,7 +53,7 @@ python manage.py makemigrations awards
 Open the application on your browser `127.0.0.1:8000`.  
   
 
-## Technology used  
+### Technology used  
   
 * Python3.8.10
 * Django 4.0.2
@@ -61,14 +61,14 @@ Open the application on your browser `127.0.0.1:8000`.
 * Css
 
 
-## Known Bugs  
+### Known Bugs  
 * There are no known bugs currently but pull requests are allowed incase you spot a bug  
   
-## Contact Information   
+### Contact Information   
 * If you have any question or contributions, please email me at [faithagnes2@gmail.com]  
   
 
-# MIT LICENCE
+### MIT LICENCE
  * Copyright (c) 2022 Agnes Nafula
 
 
